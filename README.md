@@ -1,2 +1,5 @@
-# module_control_gm190
-Scripts for control gm190 Cat.1 module
+# 控制高新兴GM190 Cat.1模块启动和联网
+
+## 依赖
+shell: https://github.com/xpertsavenue/WiringOP-Zero.git
+python: pyserial
