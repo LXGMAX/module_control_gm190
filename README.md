@@ -2,4 +2,5 @@
 
 ## 依赖
 shell: https://github.com/xpertsavenue/WiringOP-Zero.git
+
 python: pyserial
